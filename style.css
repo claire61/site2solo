@@ -1,6 +1,6 @@
 :root{
     background: #b2bbb2;
-
+    color: aliceblue;
 }
 
 
@@ -9,5 +9,5 @@ header{
 display: flex;
 background-color: #23238E;
 justify-content: space-around;
-
+border-radius: 40px;
 }
