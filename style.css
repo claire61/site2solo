@@ -1,0 +1,13 @@
+:root{
+    background: #b2bbb2;
+
+}
+
+
+
+header{
+display: flex;
+background-color: #23238E;
+justify-content: space-around;
+
+}
